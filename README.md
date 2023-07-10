@@ -31,7 +31,7 @@ La dirección de la Empresa ha requerido el desarrollo de los siguientes reporte
     
   - Relación entre las ventas en $ por vendedor y la cantidad de horas de capacitación que reciben (tipo de capacitación y horas de capacitación).
     
-  -Ventas mensuales y anuales (expresadas tanto en $ como en dólares) por categoría de producto.
+  - Ventas mensuales y anuales (expresadas tanto en $ como en dólares) por categoría de producto.
 
 
 ## Archivos incluidos: 
