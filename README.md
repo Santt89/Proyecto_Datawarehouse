@@ -23,12 +23,12 @@ implementación y la gestión del proyecto
 ## Requerimientos de Negocio
 La dirección de la Empresa ha requerido el desarrollo de los siguientes reportes:
 
-  . Clasificación de los productos por categoría.
-  . Distribución de los clientes por zona (región, ciudad).
-  . Tipo de cliente y su preferencia sobre los productos (al menos por edad)
-  . Relación entre las ventas en $ por vendedor y la cantidad de horas de capacitación que
+  - Clasificación de los productos por categoría.
+  - Distribución de los clientes por zona (región, ciudad).
+  - Tipo de cliente y su preferencia sobre los productos (al menos por edad)
+  - Relación entre las ventas en $ por vendedor y la cantidad de horas de capacitación que
     reciben (tipo de capacitación y horas de capacitación).
-  .Ventas mensuales y anuales (expresadas tanto en $ como en dólares) por categoría de
+  -Ventas mensuales y anuales (expresadas tanto en $ como en dólares) por categoría de
     producto.
 
 
