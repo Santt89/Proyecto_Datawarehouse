@@ -46,7 +46,7 @@ La dirección de la Empresa ha requerido el desarrollo de los siguientes reporte
 
 `Cotizacion_BNA` (excel de cotización del dolar): Archivo Excel que contiene información sobre las cotizaciones del dólar utilizadas en el proyecto. Este archivo se utilizará para obtener los detalles de las ventas en dólares.
 
-`Archivo SSIS` (proceso ETL): Archivo de SSIS que contiene el flujo de trabajo y las transformaciones necesarias para extraer, transformar y cargar los datos desde TRADEProd al Data Warehouse.
+`Carpeta SSIS` (proceso ETL): contiene el flujo de trabajo y las transformaciones necesarias para extraer, transformar y cargar los datos desde TRADEProd al Data Warehouse.
 
 `TABLERO_DW` (Power BI): Archivo de Power BI que muestra un tablero o informe interactivo basado en los datos del Data Warehouse.
 
@@ -54,19 +54,19 @@ La dirección de la Empresa ha requerido el desarrollo de los siguientes reporte
 
 ## Instrucciones de uso
 
-1. Descarga o clona el repositorio en tu máquina local.
+1. Descargar o clonar el repositorio en tu máquina local.
 
 2. Levantar el backup de la base de datos transaccional `TRADEProd_29032023.bank` en SQL Server.
 
-3. Ejecuta el archivo `Creacion Staging` en SQL Server.
+3. Ejecutar el archivo `Creacion Staging` en SQL Server.
 
-4. Ejecuta el archivo `Creacion DW` en SQL Server.
+4. Ejecutar el archivo `Creacion DW` en SQL Server.
 
-6. Abre el archivo SSIS en SQL Server Integration Services y configura las conexiones de origen y destino según tu entorno.
+6. Abrir el archivo SSIS en SQL Server Integration Services y configurar las conexiones de origen y destino según tu entorno.
 
-7. Ejecuta el flujo de trabajo ETL en el archivo SSIS para transferir los datos desde TRADEProd al Data Warehouse.
+7. Ejecutar el flujo de trabajo ETL en el archivo SSIS para transferir los datos desde TRADEProd al Data Warehouse.
 
-8. Abre el archivo `TABLERO_DW` en Power BI Desktop (chequear que las conexiones de datos apunten al DataWarehouse)
+8. Abrir el archivo `TABLERO_DW` en Power BI Desktop (chequear que las conexiones de datos apunten al DataWarehouse)
 
 
 
